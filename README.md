@@ -58,7 +58,7 @@
 - 📌 MyBatis + Spring Boot 연동 경험 공유
 
 ## 📫 Contact
-[![Email](https://img.shields.io/badge/illu9856@gmail.com-red)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-illu9856@gmail.com-red)](mailto:your.email@example.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-YourWebsite-blue)](https://yourwebsite.com)
 [![Blog](https://img.shields.io/badge/Blog-YourBlog-orange)](https://yourblog.com)
 
