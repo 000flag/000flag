@@ -8,6 +8,7 @@
 - 🔍 현재 **Java 기반 Spring Boot, Spring, React** 등을 학습하며 프로젝트 개발 중
 - 🚀 더 나은 개발자가 되기 위해 끊임없이 노력하고 있습니다.
 
+
 ## 🛠 Tech Stack
 ### **Backend**
 <p>
@@ -39,28 +40,29 @@
   <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white">
 </p>
 
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=000flag&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=000flag&layout=compact&theme=radical)
 
 ## 🌟 Featured Projects
 ### [🚀 Project Name](https://github.com/yourgithub/project-name)
 - ✅ 프로젝트 요약 설명
 - ✅ 주요 기능 소개
 
+
 ### [📡 Another Project](https://github.com/yourgithub/another-project)
 - ✅ 프로젝트 요약 설명
 - ✅ 주요 기능 소개
+
 
 ## 📚 Study & Learning
 - 📌 React의 useState와 useEffect 활용법 정리
 - 📌 JWT 인증 시스템 구축 과정 기록
 - 📌 MyBatis + Spring Boot 연동 경험 공유
 
+
 ## 📫 Contact
 [![Email](https://img.shields.io/badge/Email-illu9856@gmail.com-red)](mailto:your.email@example.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-YourWebsite-blue)](https://yourwebsite.com)
 [![Blog](https://img.shields.io/badge/Blog-YourBlog-orange)](https://yourblog.com)
+
 
 ## 🌟 한 마디
 > "경험을 바탕으로 성장하며, 새로운 기술을 익히는 과정에서 더 나은 개발자가 됩니다."
