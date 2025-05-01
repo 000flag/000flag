@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 안녕하세요! 저는 **웹 개발 경력을 보유한 풀스택 개발자**입니다.
-- 💻 C#, React, JavaScript, TypeScript를 활용한 웹 개발 경험 보
+- 💻 C#, React, JavaScript, TypeScript를 활용한 웹 개발 경험 보유
 - 🔍 현재 **Java 기반 Spring Boot, Spring, React** 등을 학습하며 프로젝트 개발 중
 - 🚀 더 나은 개발자가 되기 위해 끊임없이 노력하고 있습니다.
 
